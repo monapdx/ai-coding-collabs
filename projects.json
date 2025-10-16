@@ -22,7 +22,7 @@
   {
     "title": "ePub Builder",
     "date": "2025-11-17",
-    "description": "EPUB Builder is a client-side React application that enables users to easily create professional EPUB 3 ebooks directly in their browser.",
+    "description": "EPUB Builder is a client-side React application that enables users to easily create professional ebooks directly in their browser.",
     "tags": ["React", "ePub", "Generator"],
     "demo": "https://monapdx.github.io/demos/radio-message/",
     "repo": "https://github.com/monapdx/radio-message",
@@ -90,7 +90,7 @@
   {
     "title": "Audio Recorder",
     "date": "2025-07-20",
-    "description": "Web app that allows users to record, play back, and download short voice memos using their computer or mobile microphone.",
+    "description": "Web app that allows users to record, play back, and download short voice memos.",
     "tags": ["Audio", "HTML", "MP3"],
     "repo": "https://github.com/monapdx/html-cleaner",
     "image": "img/voice-recorder.png",
