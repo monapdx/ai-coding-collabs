@@ -10,13 +10,13 @@
     "imageAlt": "Screenshot showing live word counters under textareas"
   },
   {
-    "title": "Optgroup Generator",
+    "title": "Dictionary Word Lookup",
     "date": "2025-11-19",
-    "description": "Converts nested text lists into HTML <select> and <optgroup> elements automatically for faster form creation.",
-    "tags": ["HTML", "JavaScript", "Forms"],
+    "description": "Uses the Merriam-Webster Dictionary API to look up words.",
+    "tags": ["API", "Dictionary"],
     "demo": "https://monapdx.github.io/demos/optgroup-generator/",
     "repo": "https://github.com/monapdx/optgroup-generator",
-    "image": "img/optgroup.png",
+    "image": "img/dictionary.png",
     "imageAlt": "Example form with grouped dropdown"
   },
   {
