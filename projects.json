@@ -119,12 +119,12 @@
     "imageAlt": ""
   },
     {
-    "title": "",
+    "title": "Rhyme Search",
     "date": "2025-07-15",
     "description": "",
-    "tags": ["", ""],
-    "demo": "",
-    "repo": "",
+    "tags": ["api", "javascript"],
+    "demo": "https://monapdx.github.io/HTML-Projects/rhymes.html",
+    "repo": "https://monapdx.github.io/HTML-Projects/",
     "image": "",
     "imageAlt": ""
   },
@@ -149,5 +149,6 @@
     "imageAlt": ""
   },
 ]
+
 
 
